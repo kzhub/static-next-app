@@ -1,5 +1,5 @@
-This is a Static html [Next.js](https://nextjs.org/) project 
-scss support
+This is a Static html [Next.js](https://nextjs.org/) project🥺
+scss support 🐠
 
 ## Getting Started
 
