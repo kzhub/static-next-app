@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Static html [Next.js](https://nextjs.org/) project 
+scss support
 
 ## Getting Started
 
@@ -6,6 +7,13 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
+```
+
+expoer static html:
+```bash
+npm run export
+```
+run static html server:
+```bash
+npm run serve
 ```
